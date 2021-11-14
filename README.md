@@ -1,1 +1,1 @@
-# esphome-xiaom-lywsd02
+# esphome-xiaomi-lywsd02
